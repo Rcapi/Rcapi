@@ -1,16 +1,22 @@
-## Hi there 👋
+Hola, soy Rodrigo Capiglioni actualmente estudiante de ingeniería en sistemas en UTN Rosario. 
 
-<!--
-**Rcapi/Rcapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y mejorar mis habilidades técnicas en cada proyecto en el que trabajo. En mi tiempo libre disfruto ir al gimnasio y jugar videojuegos 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades:
+
+Lenguajes de programación:
+Python 
+Java 
+C# 
+
+Bases de datos:
+MySQL
+
+Otras herramientas:
+Git
+Visual Studio Code
+Visual Studio
+
+
+Si querés contactarme podés hacerlo a través de mi correo electrónico: RodrigoCapiglioni@gmail.com

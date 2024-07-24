@@ -6,17 +6,17 @@ Soy un apasionado por la tecnología y el desarrollo de software. Me encanta apr
 Habilidades:
 
 Lenguajes de programación:
-Python 
-Java 
-C# 
+Python,
+Java, 
+C#.
 
 Bases de datos:
-MySQL
+MySQL.
 
 Otras herramientas:
-Git
-Visual Studio Code
-Visual Studio
+Git,
+Visual Studio Code,
+Visual Studio.
 
 
 Si querés contactarme podés hacerlo a través de mi correo electrónico: RodrigoCapiglioni@gmail.com

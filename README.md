@@ -1,6 +1,6 @@
 Hola, soy Rodrigo Capiglioni actualmente estudiante de ingeniería en sistemas en UTN Rosario. 
 
-Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y mejorar mis habilidades técnicas en cada proyecto en el que trabajo. En mi tiempo libre disfruto ir al gimnasio y jugar videojuegos 
+Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y mejorar mis habilidades técnicas en cada proyecto en el que trabajo. En mi tiempo libre disfruto ir al gimnasio y jugar videojuegos. 
 
 
 Habilidades:

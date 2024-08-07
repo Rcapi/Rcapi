@@ -6,7 +6,7 @@ Me encanta aprender cosas nuevas y mejorar mis habilidades técnicas en cada pro
 
 <h3 align="left">Redes:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodrigo capiglioni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo capiglioni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodrigocapiglioni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo capiglioni" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
